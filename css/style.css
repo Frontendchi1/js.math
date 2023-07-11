@@ -1,0 +1,7 @@
+.cars-container {
+  gap: 15px;
+}
+
+.cars-container div {
+  width: 100%;
+}
